@@ -2,6 +2,7 @@
 
 An automated bot for claiming daily rewards on OpenLedger Testnet.
 
+Register: [https://testnet.openledger.xyz](https://testnet.openledger.xyz/?referral_code=pkf36oc2fa)
 ## Features
 
 - Automatic daily reward claiming
@@ -21,8 +22,8 @@ An automated bot for claiming daily rewards on OpenLedger Testnet.
 1. Clone this repository
 
 ```bash
-git clone https://github.com/airdropinsiders/OpenLedger-Auto-Bot.git
-cd OpenLedger-Auto-Bot
+git clone https://github.com/im-hanzou/OpenLedger-DailyClaim.git
+cd OpenLedger-DailyClaim
 ```
 
 2. Install dependencies
